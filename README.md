@@ -1,5 +1,5 @@
 # Image Slider
-## für Louis
+#### für Louis
 
 ## Install:
 1. `git clone JXNXH28/Slider` or download zip
